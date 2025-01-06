@@ -1,0 +1,12 @@
+# Robots.txt for Vcone Plast
+
+# Standard search engine crawler access
+User-agent: *
+Allow: /
+
+# Specific crawler instructions
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
